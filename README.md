@@ -4,4 +4,6 @@ NPM     : 2206030893
 
 Kelas   : PBP F
 
+Hobi    : Makan
+
 Jurusan : Sistem Informasi
